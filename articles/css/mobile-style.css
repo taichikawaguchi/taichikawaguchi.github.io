@@ -94,11 +94,9 @@ footer p {
     margin-right: 80px;
     margin-bottom: 50px;
     margin-top: 25px;
-	border-radius: 5px;
+	border-radius: 10px;
 	box-sizing: border-box;
-	box-shadow: 0 0 5px #999;
-    background-color: black;
-    background-size: auto 80px;
+	box-shadow: 0 0 10px #999;
 }
 
 .thum_box a:hover {
@@ -120,6 +118,7 @@ footer p {
 .titleofarticle {
     font-size: 1.25rem;
     color: #fff;
+    text-decoration: underline;
 }
 
 .titleofarticle a:hover {
