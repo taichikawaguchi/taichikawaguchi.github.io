@@ -118,6 +118,7 @@ footer p {
     font-size: 1.25rem;
     color: #fff;
     background-color: black;
+	height: 60px;
 }
 
 .titleofarticle a:hover {
