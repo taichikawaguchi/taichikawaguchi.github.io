@@ -96,6 +96,8 @@ footer p {
 	border-radius: 5px;
 	box-sizing: border-box;
 	box-shadow: 0 0 5px #999;
+    background-color: black;
+    background-size: cover 80px;
 }
 
 .thum_box a:hover {
@@ -117,8 +119,6 @@ footer p {
 .titleofarticle {
     font-size: 1.25rem;
     color: #fff;
-    background-color: black;
-	height: 60px;
 }
 
 .titleofarticle a:hover {
