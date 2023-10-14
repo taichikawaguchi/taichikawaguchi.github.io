@@ -88,7 +88,7 @@ footer p {
 }
 
 .thum_box {
-    display: flex;
+    display: block;
     margin: 30px;
     padding: 10px;
 	border-radius: 5px;
@@ -103,7 +103,7 @@ footer p {
 .thum_box img {
     height: 182px;
     width: 260px;
-    margin-right: 50px;
+    margin: 50px;
     box-sizing: border-box;
 	box-shadow: 0 0 5px black;
 }
