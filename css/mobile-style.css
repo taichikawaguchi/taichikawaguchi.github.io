@@ -72,16 +72,16 @@ img {
     justify-content: space-between;
 }
 
-.main-navv-button li {
+.main-nav-button li {
     margin-left: 10px;
 }
 
-.main-navv-button a {
+.main-nav-button a {
     color: black;
     text-shadow: -1px -1px 0 #fff, -1px -1px 0 #fff, -1px -1px 0 #fff, -1px -1px 0 #fff;
 }
 
-.main-navv-button a:hover {
+.main-nav-button a:hover {
     color: #728742;
 }
 
