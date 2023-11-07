@@ -125,7 +125,7 @@ img {
     
 /* メニューのデザイン*/
 .nav_content {
-    width: 30%;
+    width: 35%;
     height: 100%;
     position: fixed;
     top: 0%;
@@ -143,6 +143,6 @@ img {
   
 /* アイコンがクリックされたらメニューを表示 */
 #drawer_input:checked ~ .nav_content {
-    left: 70%;
+    left: 65%;
     margin: 0 0 0 auto;
   }

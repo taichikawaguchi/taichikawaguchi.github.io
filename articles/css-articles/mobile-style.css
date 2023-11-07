@@ -218,7 +218,7 @@ article p {
     
 /* メニューのデザイン*/
 .nav_content {
-    width: 70%;
+    width: 35%;
     height: 100%;
     position: fixed;
     top: 0%;
@@ -236,6 +236,6 @@ article p {
   
 /* アイコンがクリックされたらメニューを表示 */
 #drawer_input:checked ~ .nav_content {
-    left: 30%;
+    left: 65%;
     margin: 0 0 0 auto;
   }
