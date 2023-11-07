@@ -173,7 +173,7 @@ article p {
     position: relative;
     z-index: 100;/* 重なり順を一番上にする */
     cursor: pointer;
-    margin-top: 38px;
+    margin-top: 50px;
   }
   
   /* ハンバーガーメニューのアイコン */
@@ -218,7 +218,7 @@ article p {
     
 /* メニューのデザイン*/
 .nav_content {
-    width: 80%;
+    width: 70%;
     height: 100%;
     position: fixed;
     top: 0%;
@@ -236,6 +236,6 @@ article p {
   
 /* アイコンがクリックされたらメニューを表示 */
 #drawer_input:checked ~ .nav_content {
-    left: 20%;
+    left: 30%;
     margin: 0 0 0 auto;
   }
