@@ -108,6 +108,11 @@ aside {
     margin: 30px;
 }
 
+.guide {
+    color: black;
+    font-size: 0.95rem;
+}
+
 .post-title {
     font-size: 1.25rem;
     margin-right: 30px;
