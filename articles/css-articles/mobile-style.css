@@ -65,7 +65,7 @@ img {
 }
 
 .logo {
-    font-size: 1.25rem;
+    font-size: 1.825rem;
     margin-top: 18px;
 }
 
@@ -182,9 +182,9 @@ article p {
   .drawer_open span:after {
     content: '';
     display: block;
-    height: 3px;
-    width: 25px;
-    border-radius: 3px;
+    height: 9px;
+    width: 75px;
+    border-radius: 9px;
     background: #333;
     transition: 0.5s;
     position: absolute;
@@ -192,12 +192,12 @@ article p {
   
   /* 三本線の一番上の棒の位置調整 */
   .drawer_open span:before {
-    bottom: 8px;
+    bottom: 24px;
   }
   
   /* 三本線の一番下の棒の位置調整 */
   .drawer_open span:after {
-    top: 8px;
+    top: 24px;
   }
   
   /* アイコンがクリックされたら真ん中の線を透明にする */
@@ -218,7 +218,7 @@ article p {
     
 /* メニューのデザイン*/
 .nav_content {
-    width: 60%;
+    width: 80%;
     height: 100%;
     position: fixed;
     top: 0%;
@@ -236,6 +236,6 @@ article p {
   
 /* アイコンがクリックされたらメニューを表示 */
 #drawer_input:checked ~ .nav_content {
-    left: 40%;
+    left: 20%;
     margin: 0 0 0 auto;
   }

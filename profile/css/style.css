@@ -43,12 +43,13 @@ img {
 }
 
 .main-nav a {
-    color: black;
-    text-shadow: -1px -1px 0 #fff, -1px -1px 0 #fff, -1px -1px 0 #fff, -1px -1px 0 #fff;
+    color: white;
+    text-shadow: -1px -1px 0 black, -1px -1px 0 black, -1px -1px 0 black, -1px -1px 0 black;
+    display: block;
 }
 
 .main-nav a:hover {
-    color: #728742;
+    color: #9f385b;
 }
 
 .page-header {
@@ -180,7 +181,7 @@ footer p {
     height: 3px;
     width: 25px;
     border-radius: 3px;
-    background: #333;
+    background: white;
     transition: 0.5s;
     position: absolute;
   }
@@ -221,7 +222,7 @@ footer p {
     z-index: 99;
     transition: .5s;
     padding-top: 20px;
-    background: #dddd;
+    background: #333;
   }
   
   /* メニュー黒ポチを消す */
