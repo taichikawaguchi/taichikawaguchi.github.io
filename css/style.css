@@ -82,7 +82,7 @@ img {
     z-index: 100;/* 重なり順を一番上にする */
     cursor: pointer;
     margin-top: 24px;
-    margin-right: 40px;
+    right: 24px;
   }
   
   /* ハンバーガーメニューのアイコン */
