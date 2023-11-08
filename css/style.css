@@ -78,7 +78,7 @@ img {
     width: 60px;
     justify-content: center;
     align-items: center;
-    position: relative;
+    position: fixed;
     z-index: 100;/* 重なり順を一番上にする */
     cursor: pointer;
     margin-top: 24px;
