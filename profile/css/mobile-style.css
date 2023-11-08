@@ -39,9 +39,11 @@ img {
 }
 
 .main-nav li {
-    margin: 0;
-    padding: 10px;
-    border-bottom: 1px solid white;
+    margin-left: 36px;
+    margin-right: 40px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid gray;
 }
 
 .main-nav a {
