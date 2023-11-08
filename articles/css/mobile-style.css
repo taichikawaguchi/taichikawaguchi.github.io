@@ -39,8 +39,9 @@ img {
 }
 
 .main-nav li {
-    margin: 0;
+    margin: 10px;
     padding: 10px;
+    border-bottom: 1px solid white;
 }
 
 .main-nav a {

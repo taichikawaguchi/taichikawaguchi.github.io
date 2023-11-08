@@ -41,6 +41,7 @@ img {
 .main-nav li {
     margin: 0;
     padding: 10px;
+    border-bottom: 1px solid white;
 }
 
 .main-nav a {
